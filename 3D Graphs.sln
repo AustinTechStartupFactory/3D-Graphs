@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D Graphs.Plugins", "3D Graphs.Plugins.csproj", "{B9B7DC6E-1A9C-AEA6-18E1-0F65844EC7B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D Graphs", "3D Graphs.csproj", "{7833E344-91F2-3A73-CD40-8F5F01B71475}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D Graphs.Editor", "3D Graphs.Editor.csproj", "{F13CA815-0596-9F4A-B5F6-6EFC5C2514D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9B7DC6E-1A9C-AEA6-18E1-0F65844EC7B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B7DC6E-1A9C-AEA6-18E1-0F65844EC7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B7DC6E-1A9C-AEA6-18E1-0F65844EC7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B7DC6E-1A9C-AEA6-18E1-0F65844EC7B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7833E344-91F2-3A73-CD40-8F5F01B71475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7833E344-91F2-3A73-CD40-8F5F01B71475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7833E344-91F2-3A73-CD40-8F5F01B71475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7833E344-91F2-3A73-CD40-8F5F01B71475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F13CA815-0596-9F4A-B5F6-6EFC5C2514D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F13CA815-0596-9F4A-B5F6-6EFC5C2514D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F13CA815-0596-9F4A-B5F6-6EFC5C2514D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F13CA815-0596-9F4A-B5F6-6EFC5C2514D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
